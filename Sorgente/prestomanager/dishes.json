@@ -1,0 +1,337 @@
+[ {
+  "name" : "Cotolette alla valdostana",
+  "price" : 9.0,
+  "description" : "Cotoletta fritta farcita con fontina e formaggio",
+  "allergens" : [ "GLUTINE", "LATTE" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Caponata",
+  "price" : 5.0,
+  "description" : "Verdure fritte, sugo di pomodoro, olive, capperi e salsa agrodolce.\nTipico piatto siciliano",
+  "allergens" : [ ],
+  "type" : "CONTORNO"
+}, {
+  "name" : "Fanta 1L",
+  "price" : 2.5,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "7up 33CL",
+  "price" : 1.5,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Torta Sacher",
+  "price" : 4.0,
+  "description" : "La torta consiste in due strati di pan di Spagna al cioccolato leggero con al centro un sottile strato di confettura di albicocche. Il tutto risulta ricoperto di uno strato di glassa di cioccolato fondente",
+  "allergens" : [ "GLUTINE", "UOVA" ],
+  "type" : "DESSERT"
+}, {
+  "name" : "Panzanella",
+  "price" : 4.9,
+  "description" : "Insalata a base di pane raffermo bagnato e verdure",
+  "allergens" : [ "GLUTINE" ],
+  "type" : "CONTORNO"
+}, {
+  "name" : "Pizzoccheri alla Valtellinese",
+  "price" : 8.5,
+  "description" : "Pasta di grano saraceno fatta in casa e condita con formaggio, burro, patate e verza.",
+  "allergens" : [ "GLUTINE", "LATTE" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Coniglio in porchetta",
+  "price" : 14.0,
+  "description" : "Coniglio disossato venga farcito con fegatini, gambi di finocchietto, pancetta e salsiccia secondo la ricetta tradizionale marchigiana",
+  "allergens" : [ "SEDANO" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Fanta 33CL",
+  "price" : 1.5,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Carciofi alla Giudia",
+  "price" : 6.5,
+  "description" : "I carciofi alla giudía sono un tipico piatto della cucina giudaico-romanesca. La ricetta originale consiste, fondamentalmente, in una frittura di carciofi.",
+  "allergens" : [ ],
+  "type" : "ANTIPASTO"
+}, {
+  "name" : "Cjarsons",
+  "price" : 15.0,
+  "description" : "Agnolotti tipici della Carnia con ripieno di ricotta, cannella, uva passa e cioccolato.",
+  "allergens" : [ "GLUTINE", "LATTE" ],
+  "type" : "DESSERT"
+}, {
+  "name" : "Olive ascolane",
+  "price" : 5.0,
+  "description" : "Olive riempite di carne, impanate e fritte",
+  "allergens" : [ "GLUTINE" ],
+  "type" : "CONTORNO"
+}, {
+  "name" : "Tagliere di formaggi e salumi",
+  "price" : 7.5,
+  "description" : "",
+  "allergens" : [ "LATTE" ],
+  "type" : "ANTIPASTO"
+}, {
+  "name" : "Polpette di lupini e finocchio",
+  "price" : 6.5,
+  "description" : "La ricetta delle polpette di lupini e finocchio è un’ottima alternativa alla carne e quindi ideale per chi segue un’alimentazione vegetariana o vegana",
+  "allergens" : [ "LUPINO" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Soppressata molisana",
+  "price" : 7.0,
+  "description" : "Insaccato di suino tritato fine con pochissimo lardo e sale e pepe per condire. Deve il nome al fatto che, per ottenere il prodotto finale che tutti conosciamo, va fatta asciugare per alcuni giorni sotto alcuni pesi.",
+  "allergens" : [ ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Vino rosso della casa",
+  "price" : 4.0,
+  "description" : "",
+  "allergens" : [ "SO2" ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Cicoria ripassata",
+  "price" : 2.5,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "CONTORNO"
+}, {
+  "name" : "Caffè",
+  "price" : 0.99,
+  "description" : "Lavazza Rossa",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Cicerchiata",
+  "price" : 10.2,
+  "description" : "Dolce carnevalesco formato da tante piccole palline di impasto fritte e tenute insieme a forma di ciambella da una colata di miele. Piatto tipico abruzzese",
+  "allergens" : [ "GLUTINE", "UOVA", "LATTE" ],
+  "type" : "DESSERT"
+}, {
+  "name" : "Baccalà alla vicentina",
+  "price" : 10.0,
+  "description" : "Stoccafisso (merluzzo essiccato) con olio d'oliva e latte",
+  "allergens" : [ "PESCE", "LATTE" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Pasta alla Norma",
+  "price" : 9.8,
+  "description" : "Piatto tipico siciliano con pomodoro, melanzane fritte, ricotta salata e basilico",
+  "allergens" : [ "GLUTINE", "LATTE" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Allergeni liquidi",
+  "price" : 0.0,
+  "description" : "Esempio di tutti gli allergeni che è possibile inserire. \nDefiniti secondo il REG. (UE) n. 1169/2011",
+  "allergens" : [ "SESAMO", "SO2", "LUPINO", "FRUTTA_GUSCIO", "GLUTINE", "UOVA", "LATTE", "SOIA", "MOLLUSCHI", "PESCE", "CROSTACEI", "ARACHIDI", "SENAPE", "SEDANO" ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Impepata di cozze",
+  "price" : 3.4,
+  "description" : "Antipasto tipico campano a base di pepe e cozze",
+  "allergens" : [ "PESCE" ],
+  "type" : "ANTIPASTO"
+}, {
+  "name" : "Agnolotti del plin",
+  "price" : 10.0,
+  "description" : "Piccoli ravioli quadrati farciti solitamente con carne arrosto e verdure. Sono uno piatti tipici piemontesi delle Feste di Natale.",
+  "allergens" : [ "GLUTINE", "UOVA" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Acqua liscia 1L",
+  "price" : 2.0,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Spaghetti alla Carbonara",
+  "price" : 9.0,
+  "description" : "La pasta alla carbonara è un piatto caratteristico del Lazio, e più in particolare di Roma, preparato con guanciale, Pecorino romano, uova e pepe",
+  "allergens" : [ "GLUTINE", "UOVA" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Pasta ‘ncasciata",
+  "price" : 9.0,
+  "description" : "Pasta al forno con maccheroni, melanzane, uova, prosciutto, pomodoro e caciocavallo.\nÈ una ricetta tipica soprattutto di Messina, ed è il piatto preferito di Montalbano",
+  "allergens" : [ "GLUTINE", "UOVA", "LATTE" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Friccò all’Eugubina",
+  "price" : 8.8,
+  "description" : "Sspezzatino composto da diverse carni (pollo, coniglio, agnello e maiale) e arricchito da aromi e acciughe, originario di Gubbio",
+  "allergens" : [ "PESCE" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Pomodori ripieni con il riso",
+  "price" : 4.3,
+  "description" : "Piatto originario del Lazio, ma diffuso su tutto il territorio italiano",
+  "allergens" : [ ],
+  "type" : "ANTIPASTO"
+}, {
+  "name" : "Frutta di stagione",
+  "price" : 2.5,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "DESSERT"
+}, {
+  "name" : "Coca Cola 1L",
+  "price" : 2.5,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Ciambellone",
+  "price" : 5.5,
+  "description" : "Torta tipica delle Marche forata al centro e composta da un impasto a base di uova, latte, zucchero, burro e lievito.",
+  "allergens" : [ "UOVA", "LATTE" ],
+  "type" : "DESSERT"
+}, {
+  "name" : "Lasagne",
+  "price" : 9.9,
+  "description" : "Sfoglia all’uovo, ragù di carne e besciamella",
+  "allergens" : [ "UOVA", "LATTE" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Brovada DOP",
+  "price" : 7.0,
+  "description" : "Rapa messa a macerare nelle vinacce tipica del Friuli Venezia-Giulia",
+  "allergens" : [ ],
+  "type" : "CONTORNO"
+}, {
+  "name" : "Aragosta alla catalana",
+  "price" : 15.0,
+  "description" : "Astice servito con pomodori e cipolla rossa",
+  "allergens" : [ "MOLLUSCHI" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "7up 1L",
+  "price" : 2.5,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Bruschette miste",
+  "price" : 8.5,
+  "description" : "Consiste in una fetta di pane raffermo o arrostito sulla griglia o in forno, su cui viene strofinato a caldo uno spicchio d'aglio, il quale per il calore si fonderà col pane; la fetta viene successivamente condita con olio extravergine d'oliva e sale",
+  "allergens" : [ "GLUTINE" ],
+  "type" : "ANTIPASTO"
+}, {
+  "name" : "Tajarin al Tartufo",
+  "price" : 12.0,
+  "description" : "Pasta all'uovo più spessa dei cappellini ma più fine delle tagliatelle, abbinata a tartufo DOP piemontese",
+  "allergens" : [ "GLUTINE", "UOVA" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Brandacujùn",
+  "price" : 9.5,
+  "description" : "Crema a base di stoccafisso ammollato e patate; si gusta tiepido, con un filo d’olio",
+  "allergens" : [ "UOVA" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Zuppa alla valpellinese",
+  "price" : 7.0,
+  "description" : "Zuppa piuttosto asciutta a base di pane, cavolo, verza e formaggio filante",
+  "allergens" : [ "GLUTINE", "LATTE" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Albicocche sciroppate",
+  "price" : 5.0,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "DESSERT"
+}, {
+  "name" : "Sarde in saor",
+  "price" : 11.0,
+  "description" : "Sardine fritte e condite con aceto e cipolle in agrodolce tipiche di Venezia",
+  "allergens" : [ "PESCE" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Coca Cola 33CL",
+  "price" : 1.5,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Crioli con sugo di noci",
+  "price" : 9.9,
+  "description" : "Pasta fresca all’uovo molisana molto simile allo spaghetto alla chitarra con sugo di noci tipico",
+  "allergens" : [ "FRUTTA_GUSCIO", "GLUTINE", "UOVA" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Arrosticini alla griglia",
+  "price" : 6.7,
+  "description" : "Carne di ovini tagliata a pezzetti piccoli e infilzata su uno stecchino. Tipici dell'Appennino",
+  "allergens" : [ ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Penne alla norcina",
+  "price" : 10.0,
+  "description" : "Pasta con salsiccie di norcia, panna e tartufo",
+  "allergens" : [ "LATTE" ],
+  "type" : "PRIMO"
+}, {
+  "name" : "Gamberetti in padella",
+  "price" : 8.0,
+  "description" : "",
+  "allergens" : [ "MOLLUSCHI" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Fragole con panna",
+  "price" : 5.0,
+  "description" : "",
+  "allergens" : [ "LATTE" ],
+  "type" : "DESSERT"
+}, {
+  "name" : "Rosso Cacc'e Mmitte di Lucera DOC",
+  "price" : 20.0,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Antipasto di cicorie e fave",
+  "price" : 2.9,
+  "description" : "Fave binache ridotte in purea che vanno ad abbracciare il sapore amarognolo della cicoria. Piatto tipico della Basilicata",
+  "allergens" : [ ],
+  "type" : "ANTIPASTO"
+}, {
+  "name" : "Bombette pugliesi",
+  "price" : 6.0,
+  "description" : "Involtini di carne di maiale e formaggio arrotolati nella pancetta e cotti in forno",
+  "allergens" : [ "LATTE" ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Spumante Locorotondo DOC",
+  "price" : 20.0,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Strudel",
+  "price" : 11.0,
+  "description" : "Guscio di pasta strudel ripieno di mele, cannella, pinoli e uvetta",
+  "allergens" : [ "GLUTINE", "UOVA", "LATTE" ],
+  "type" : "DESSERT"
+}, {
+  "name" : "Saltimbocca alla romana",
+  "price" : 6.6,
+  "description" : "Fettine di vitello farcite con prosciutto e fritte in padella",
+  "allergens" : [ ],
+  "type" : "SECONDO"
+}, {
+  "name" : "Acqua frizzante 1L",
+  "price" : 2.0,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "BEVANDA"
+}, {
+  "name" : "Patatine fritte",
+  "price" : 3.3,
+  "description" : "",
+  "allergens" : [ ],
+  "type" : "CONTORNO"
+} ]
